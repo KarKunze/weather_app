@@ -66,6 +66,7 @@ function catchResponse() {
     else {
         error.style.display = 'block';
         errorMessage.innerHTML = apiRequest.statusText;
+        output.style.display = 'none';
     }
   }
 
