@@ -1,0 +1,34 @@
+
+.container {
+background-color: #7cc3ec;
+max-width: 500px;
+min-width: 300px;
+}
+
+.card-header {
+background-color: #53f4bf;
+}
+
+.navbar {
+	background-color: #fde982
+}
+
+
+body {
+	background-image: url("images/bright-clouds-clouds-form-1120094.jpg");
+	min-height: 100vh;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	margin: 0 auto;
+	color: white;
+}
+
+/* .hero-image {
+    background-image: url("images/bright-clouds-clouds-form-1120094.jpg");
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+} */
